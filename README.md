@@ -9,7 +9,7 @@ I am documenting my complete CCNA 200-301 journey here. This repository includes
 ### 📝 Lab Notes
 *Note: Some labs are combined or theory-based as per the course structure. Screenshots and .pkt files are added for all practical sessions.*
 # My-Networking-Journey-Jeremy-IT-Lab
-Practical networking labs (Day 1-11) based on Jeremy's IT Lab CCNA course. Includes Packet Tracer files and lab reports.
+Practical networking labs (Day 1-63) based on Jeremy's IT Lab CCNA course. Includes Packet Tracer files and lab reports.
 ![day-1 lab](https://github.com/user-attachments/assets/5237054a-76e0-40b9-9ee8-b63d54c6d353)
 ![day-2 lab](https://github.com/user-attachments/assets/3f8e39f0-211c-4edf-8543-e0d07e251338)
 ![day-3 lab](https://github.com/user-attachments/assets/727a10d6-2e55-4bba-ac27-5792a75f35a8)
