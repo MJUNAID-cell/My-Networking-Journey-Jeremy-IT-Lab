@@ -17,6 +17,9 @@ Practical networking labs (Day 1-63) based on Jeremy's IT Lab CCNA course. Inclu
 ![day-6 lab](https://github.com/user-attachments/assets/2c3e2fdd-1b19-4abd-a34b-a514ca56870b)
 ![day-8  lab](https://github.com/user-attachments/assets/6b3b45ba-7cd7-488e-b6df-15806694c9b5)
 ![day-9 lab](https://github.com/user-attachments/assets/ce5382e3-2408-47a9-9499-bee2da75f980)
+![day-11 lab](https://github.com/user-attachments/assets/78ce11b4-021d-4ed7-92f7-fb41721f2473)
+![day-12 lab](https://github.com/user-attachments/assets/2c093982-0f73-49e2-bafe-d57225d33894)
+
 
  
 
